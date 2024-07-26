@@ -1,1 +1,1 @@
-# gha-action-demo
+# GHA-action-demo
