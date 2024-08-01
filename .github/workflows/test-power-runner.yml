@@ -4,7 +4,7 @@
 
  jobs:
    run_tests:
-     runs-on: ubuntu-20.04-ppc64le
+     runs-on: ubuntu-22.04-ppc64le
      steps:
        - name: Checkout repository
          uses: actions/checkout@v4
