@@ -1,1 +1,1 @@
-# GHA-action-demo test app
+# GHA-action-demo test
